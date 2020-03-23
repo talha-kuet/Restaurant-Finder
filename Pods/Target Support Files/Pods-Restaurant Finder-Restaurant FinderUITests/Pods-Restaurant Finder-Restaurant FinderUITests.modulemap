@@ -1,0 +1,6 @@
+framework module Pods_Restaurant_Finder_Restaurant_FinderUITests {
+  umbrella header "Pods-Restaurant Finder-Restaurant FinderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+PODS:
+  - FoursquareAPIClient (5.0.1)
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+
+DEPENDENCIES:
+  - FoursquareAPIClient
+  - GoogleMaps
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - FoursquareAPIClient
+    - GoogleMaps
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FoursquareAPIClient: 83c932298e905634e0c0cce90e3f1d6897c7a7a9
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+
+PODFILE CHECKSUM: 9d722fefa31042db1b293d3e1fe74caa21a1c5ed
+
+COCOAPODS: 1.9.1
