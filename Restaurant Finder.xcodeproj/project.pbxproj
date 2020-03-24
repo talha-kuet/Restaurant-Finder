@@ -177,18 +177,15 @@
 		C40A4957242351400009F31A /* Restaurant Finder */ = {
 			isa = PBXGroup;
 			children = (
-				C40867572424F171000779EF /* Extensions */,
-				C40A498E24236D200009F31A /* Utility */,
-				C40A498D24236C480009F31A /* Views */,
 				C40A498C24236C420009F31A /* Controllers */,
-				C40A498B24236C2B0009F31A /* ViewModel */,
+				C40A498D24236C480009F31A /* Views */,
 				C40A498A24236C210009F31A /* Model */,
+				C40A498B24236C2B0009F31A /* ViewModel */,
+				C40A498E24236D200009F31A /* Utility */,
+				C40867572424F171000779EF /* Extensions */,
+				C421507E242A338F009D812D /* Support Files */,
 				C40A4958242351400009F31A /* AppDelegate.swift */,
 				C40A495A242351400009F31A /* SceneDelegate.swift */,
-				C40A495E242351400009F31A /* Main.storyboard */,
-				C40A4961242351410009F31A /* Assets.xcassets */,
-				C40A4963242351410009F31A /* LaunchScreen.storyboard */,
-				C40A4966242351410009F31A /* Info.plist */,
 			);
 			path = "Restaurant Finder";
 			sourceTree = "<group>";
@@ -245,6 +242,7 @@
 		C40A498D24236C480009F31A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				C421507F242A33A7009D812D /* Storyboards */,
 				C489531D2428B4F600B00683 /* MarkerInfoView.swift */,
 				C489531C2428B4F600B00683 /* MarkerInfoView.xib */,
 				C4ABA8D7242643E600C9C0C3 /* PlaceMarker.swift */,
@@ -261,6 +259,24 @@
 				C40A4991242373630009F31A /* APIService.swift */,
 			);
 			path = Utility;
+			sourceTree = "<group>";
+		};
+		C421507E242A338F009D812D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C40A4966242351410009F31A /* Info.plist */,
+				C40A4961242351410009F31A /* Assets.xcassets */,
+			);
+			path = "Support Files";
+			sourceTree = "<group>";
+		};
+		C421507F242A33A7009D812D /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				C40A495E242351400009F31A /* Main.storyboard */,
+				C40A4963242351410009F31A /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 		E4CF9DE6B98A80B679B330D9 /* Pods */ = {
