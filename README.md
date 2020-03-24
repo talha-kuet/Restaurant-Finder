@@ -82,7 +82,7 @@ Finally, open ```project_name.xcworkspace``` file. Build and Run the project. Th
 * Frameworks
 
 ## Limitations
-- Pods are uploaded to remote repository.
+
 - A little bit of Unit Testing Code added
 - Project is build mostly on MVC which is more challenging for Unit Testing
 
