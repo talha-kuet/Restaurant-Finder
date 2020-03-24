@@ -186,6 +186,7 @@
 				C421507E242A338F009D812D /* Support Files */,
 				C40A4958242351400009F31A /* AppDelegate.swift */,
 				C40A495A242351400009F31A /* SceneDelegate.swift */,
+				C40A4966242351410009F31A /* Info.plist */,
 			);
 			path = "Restaurant Finder";
 			sourceTree = "<group>";
@@ -264,7 +265,6 @@
 		C421507E242A338F009D812D /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				C40A4966242351410009F31A /* Info.plist */,
 				C40A4961242351410009F31A /* Assets.xcassets */,
 			);
 			path = "Support Files";
