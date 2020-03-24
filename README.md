@@ -13,21 +13,21 @@ Help users to find restarants near to their current location.
 - iOS 13.0+
 - Swift 5.0
 
-## Build
+## How to Build
 
-First, run the following command in Terminal:
+At first, run the following command in Terminal:
 
 ```
-git clone <#Project Url#>
+git clone <#SSH/HTTPS#>
 ```
 
-Second, Install Cocoapods into project:
+Then, install Cocoapods into project:
 
 ```
 pod install
 ```
 
-Then, Build and Run the project
+Finally, open ```project_name.xcworkspace``` file. Build and Run the project. That's it.
 
 ## Project Architecture
 
@@ -83,12 +83,13 @@ Then, Build and Run the project
 
 ## Limitations
 - Pods are uploaded to remote repository.
-- Unit Test code not added
+- A little bit of Unit Testing Code added
 - Project is build mostly on MVC which is more challenging for Unit Testing
 
 ## Future Update
 
 - Convert the whole project to MVVM architecture pattern
+- Add more Unit Test code
 - Show direction from current location to Restaurant
 - Show more details informations about restaurants
 
