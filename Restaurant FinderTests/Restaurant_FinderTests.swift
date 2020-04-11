@@ -26,7 +26,7 @@ class Restaurant_FinderTests: XCTestCase {
 //    }
     
     func testGoogleApiKey() {
-        XCTAssertEqual("AIzaSyCtRtEW4nWKAtW6RH8bU9WkWatB5TSQMEw", Constants.GOOGLE_MAPS_API_KEY, "Google Maps Api Key is not matched. Please have a check")
+        XCTAssertEqual("AIzaSyCK0ri6Et5HRi9e9uTJVI3R97AwvcZWVA4", Constants.GOOGLE_MAPS_API_KEY, "Google Maps Api Key is not matched. Please have a check")
     }
 
     func testFourSquarePlaceApiClientID() {

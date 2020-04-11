@@ -20,5 +20,5 @@ struct Constants {
         static let LIMIT = 50
     }
     
-    static let GOOGLE_MAPS_API_KEY = "AIzaSyCtRtEW4nWKAtW6RH8bU9WkWatB5TSQMEw"
+    static let GOOGLE_MAPS_API_KEY = "AIzaSyCK0ri6Et5HRi9e9uTJVI3R97AwvcZWVA4"
 }
