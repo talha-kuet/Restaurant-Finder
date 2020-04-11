@@ -4,9 +4,9 @@ Help users to find restarants near to their current location.
 
 ## Features
 
-- Get the location of 50 restaurents with 3km of user's current location in a Map
+- Get the location of 50 restaurents within 3km of user's current location in a Map
 - Can also search for a restaurant with keyword.
-- Get some other info like Type when searching for a restaurant
+- Get some other info like Restaurant Type when searching for a restaurant
 
 ## Requirements
 
@@ -31,7 +31,7 @@ Finally, open ```project_name.xcworkspace``` file. Build and Run the project. Th
 
 ## Project Architecture
 
-- Use MVC design pattern mostly to meet deadline
+- Use MVC design pattern mostly to meet deadline.
 - Also use Singleton for Network call. And use MVVM for showing Restaurant's inforamtion.
 
 ## Frameworks
@@ -82,7 +82,7 @@ Finally, open ```project_name.xcworkspace``` file. Build and Run the project. Th
 * Frameworks
 
 ## Limitations
-- Pods are uploaded to remote repository.
+
 - A little bit of Unit Testing Code added
 - Project is build mostly on MVC which is more challenging for Unit Testing
 
